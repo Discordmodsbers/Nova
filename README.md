@@ -1,4 +1,4 @@
-![GitHub Logo](/images/static (2).png)
+![GitHub Logo](/images/Nova.png)
 # Nova
 This hacking tool Nova is made for blackhat use.
 
