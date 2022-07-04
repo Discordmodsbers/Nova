@@ -11,4 +11,4 @@ python3 Nova.py -h
 ```
 
 
-In order to use Nova please run: ``python3 Nova.py``
+In order to use Nova please run: ``python3 Nova.py -h``
